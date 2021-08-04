@@ -7,4 +7,4 @@
 
 ### 📜 » Alterações. (**v5** para **v6**) › `01/08/2021`
 > - [x] Embed com Menu.
-> - [] Embed com reações.
+> - [ ] Embed com reações.
