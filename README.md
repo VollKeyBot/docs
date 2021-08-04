@@ -4,4 +4,4 @@
 ### 🤔 » Oque esse **VollKeyBot** faz ?
 > Bom... o **VollKeyBot** atualmente é focado em __Moderação__ **&** __Segurança__ de seu servidor! Futuramente sera adicionado outras funções nele como Economia **&** ROG, entre outras...
 
-### 🪧 » Créditos para [DollnKey#7768](https://github.com/DollnKey)
+### 📌 » Créditos para [DollnKey#7768](https://github.com/DollnKey)
