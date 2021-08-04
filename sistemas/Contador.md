@@ -1,11 +1,11 @@
 ## 🛠️ » Informações sobre o sistema.
 > **• *Editando configurações***:
 > 
-> O moderador deve utilizar: `v?autocargo editar`, após isso vai aparecer um Embed ([Saiba mais](https://google.com/)) lhe mostrando oque se deve fazer para configurar!
+> O moderador deve utilizar: `v?contador editar`, após isso vai aparecer um Embed ([Saiba mais](https://google.com/)) lhe mostrando oque se deve fazer para configurar!
 ** **
 > **• *Restaurar configurações para padrão***:
 > 
-> O moderador do servidor deve utilizar: `v?autocargo resetar`, após isso o bot irá verificar tudo que foi realizado com o **AutoCargo** e sera deletado do sistema automáticamente!
+> O moderador do servidor deve utilizar: `v?contador resetar`, após isso o bot irá verificar tudo que foi realizado com o sistema para a **Contagem de Membros** dentro do Servidor,  e sera deletado do sistema automáticamente!
 
 
 

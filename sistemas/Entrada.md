@@ -3,7 +3,7 @@
 > 
 > O moderador deve utilizar: `v?entrada editar`, após isso vai aparecer um Embed ([Saiba mais](https://google.com/)) lhe mostrando oque se deve fazer para configurar!
 ** **
-> **• *Restaurar configurações padrões***:
+> **• *Restaurar configurações para padrão***:
 > 
 > O moderador do servidor deve utilizar: `v?entrada resetar`, após isso o bot irá verificar tudo que foi realizado com o sistema de **Boas-Vindas** e sera deletado do sistema automáticamente!
 
