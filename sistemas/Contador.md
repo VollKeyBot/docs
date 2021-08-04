@@ -17,3 +17,7 @@
 > - [x] Embed com Menu.
 > - [ ] Embed com Reações.
 > - [ ] Embed com Argumentos.
+
+** ** 
+> ![ImageSystems](https://i.imgur.com/B109jSC.png)<br>
+> **└** *Clique neste Menu que está acima!*
