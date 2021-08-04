@@ -6,6 +6,10 @@
 > **• *Restaurar configurações para padrão***:
 > 
 > O moderador do servidor deve utilizar: `v?entrada resetar`, após isso o bot irá verificar tudo que foi realizado com o sistema de **Boas-Vindas** e sera deletado do sistema automáticamente!
+** **
+> **• *Testar sistema no servidor***:
+> 
+> Algum moderador deve utilizar: `v?entrada testar`, após isso o bot irá verificar se o sistema de **Boas-Vindas** está __ativado__ ou __desativado__ no servidor, se estiver ativado o bot irá pesquisar pelo **#canal** configurado no `v?entrada editar`, se encontrar o canal o bot irá enviar a Mensagem para o canal definido!
 
 
 
