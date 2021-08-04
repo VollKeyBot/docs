@@ -19,5 +19,5 @@
 > - [ ] Embed com Argumentos.
 
 ** ** 
-> ![ImageSystems](https://i.imgur.com/IbJQfEk.png)<b>
+> ![ImageSystems](https://i.imgur.com/IbJQfEk.png)<br>
 > **└** *Clique neste Menu que está acima!*
