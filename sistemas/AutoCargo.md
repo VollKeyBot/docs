@@ -1,5 +1,5 @@
 ### 🛠️ » Informações sobre o sistema.
-- #### **•** Editando configurações:
+> - **Editando configurações**:
 > O moderador deve utilizar: `v?autocargo editar`, após isso vai aparecer um Embed ([Saiba mais](https://google.com/)) lhe mostrando oque se deve > fazer para configurar!
 
 ### 🔖 » Permissões necessárias.
