@@ -9,12 +9,12 @@
 > **• *Selecionar um #canal para o sistema***:
 > 
 > É necessário clicar neste botão que está marcado logo abaixo!
-> ![ImageSystemsO](https://imgur.com/yNbdB92) 
+> ![ImageSystemsO](https://i.imgur.com/yNbdB92.png) 
 ** ** 
 > **• *Restaurar configurações para padrão***:
 > 
 > É necessário clicar neste botão que está marcado logo abaixo!
-> ![ImageSystemsD](https://imgur.com/TjyDRUC)
+> ![ImageSystemsD](https://i.imgur.com/TjyDRUC.png)
 
 
 
